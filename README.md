@@ -1,4 +1,4 @@
-# 🧠 Intern Employee Management & AI Task Suggestion System
+# Employee Management & AI Task Suggestion System
 
 A Django REST Framework (DRF)** powered backend for managing employees, daily tasks, and AI-generated task suggestions.  
 The system automates task assignments, email notifications, and integrates AI (OpenAI GPT 3.5 / OpenRouter) to generate smart next-task recommendations based on employee job roles and current progress.
